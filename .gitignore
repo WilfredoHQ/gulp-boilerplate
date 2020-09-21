@@ -1,0 +1,6 @@
+node_modules/
+public/
+
+# Lock files
+*.lock
+package-lock.json
